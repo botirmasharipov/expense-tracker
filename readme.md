@@ -1,4 +1,4 @@
-# Expense tracker
+# Expense tracker.
 
 ## Technologies:
 
